@@ -1,4 +1,2 @@
-developing-in-the-cloud
-=======================
 
-technical report where we summarize our findings related to software development in the cloud.
+Abstract: With cloud computing as an infrastructure model maturing, more and more efforts around cloud-based software development are emerging. In this model, a cloud-based environment enables developers to edit, test and deploy Web applications through a Web browser. We consider this tool stack to be disruptive in its nature, changing the way software development is being carried out and opening up new opportunities for service providers as well as (teams of ) developers. In this report, we review the state of the art of cloud-based software development environments, analyse their shortcomings and provide a roadmap for the next generation of cloud-based development tools. 
